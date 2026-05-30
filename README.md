@@ -1,4 +1,4 @@
-# Beyond Classical NLP: Hybrid Quantum Fake News Detector (v1.0)
+# Beyond Classical NLP: Hybrid Quantum Fake News Detector (in progress)
 
 [![Framework - PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c?style=flat-square&logo=pytorch)](https://pytorch.org/)
 [![Quantum - PennyLane](https://img.shields.io/badge/Quantum-PennyLane-6100a3?style=flat-square)](https://pennylane.ai/)
